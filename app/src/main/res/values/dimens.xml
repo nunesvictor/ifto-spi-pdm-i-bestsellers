@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_default">10dp</dimen>
+    <dimen name="listview_item_padding_default">8dp</dimen>
+    <dimen name="book_cover_max_width">150dp</dimen>
+</resources>

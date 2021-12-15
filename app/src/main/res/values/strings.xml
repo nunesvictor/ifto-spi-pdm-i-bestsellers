@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Best-Sellers</string>
+    <string name="main_activity_text_subheader">Livros mais vendidos no Brasil até 08/09/2021</string>
+    <string name="app_bar_text_header">Os livros mais vendidos</string>
+    <string name="imageview_book_cover">Book cover</string>
+    <string name="textview_book_title">O homem mais rico da babilônia</string>
+    <string name="textview_book_author">George S. Clason</string>
+    <string name="textview_book_publisher">Harpercollins Brasil</string>
+    <string name="textview_previous_week_label">Semana anterior:</string>
+    <string name="textview_previous_week">%dº Lugar</string>
+    <string name="textview_weeks_on_list_label">Semanas na lista:</string>
+    <string name="textview_weeks_on_list">%d (não consecutivas)</string>
+    <string name="textview_book_synopsis_label">Sinopse</string>
+    <string name="textview_book_synopsis">Lorem ipsum dolor sit amet, summo quando id nam. Ne exerci detracto repudiare cum. No eum molestiae ullamcorper. Usu civibus imperdiet disputationi ea. Ius prima deseruisse efficiantur an, at vix semper argumentum, civibus reprimique omittantur ea pro. Error ponderum necessitatibus sea in, per ut corpora ponderum. Sed et facete oportere, vim tale omnium at. Causae debitis pro et, an quod quaerendum nam, id mei solet veniam. Vel omnes dicant repudiandae et, fuisset dolores nec ea. Ex aliquip maiestatis est.</string>
+    <string name="textview_book_price_label">Preço</string>
+    <string name="textview_book_price">R$ %.02f</string>
+</resources>
